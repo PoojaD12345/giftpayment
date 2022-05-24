@@ -1,0 +1,22 @@
+.container{
+    border: 1px solid black;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+.bottom{
+    display: flex;
+    justify-content: space-between;
+}
+.yellow{
+    background-color: rgb(255, 174, 0);
+}
+.grey{
+    background-color: rgb(219, 190, 190);
+}
